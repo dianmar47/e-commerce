@@ -12,6 +12,7 @@ exports.obtenerCategoria = async ( req, res) => {
     }
 };
 
+
 exports.crearCategoria = async ( req, res) => {
     // req leemos lo que viene de postman
     // res le escribimos a postman
